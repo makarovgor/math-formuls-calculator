@@ -1,0 +1,23 @@
+.DS_Store
+
+# sbt specific
+dist/
+target/
+
+#IDEA specific
+.idea/
+
+.bloop
+.bsp
+.metals
+.vscode
+metals.sbt
+.local/
+.ammonite/
+
+compose/resources/data/
+local/
+user_data/
+
+# scala-cli specific
+.scala-build/
